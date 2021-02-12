@@ -1,0 +1,50 @@
+.logo img{
+    width: 80px;
+    height: 70px;
+    border: 2px solid rgb(190, 95, 95);
+    border-radius: 50%;
+    box-shadow:0 12px 10px 5px red;
+    float: left;
+}
+.logo img:hover{
+    background-color:crimson;
+}
+nav{
+    background-color: cyan;
+    width: auto;
+    height: 80px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul li{
+display: inline-block;
+padding: 20px 60px;
+float: right;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+.footer{
+    width: 82%;
+    height: 50px;
+    background-color:rgb(173, 42, 42) ;
+    clear: both;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+
+
+    
+   
+
